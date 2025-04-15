@@ -32,10 +32,12 @@ Dining Philosophers implementation to approach threading a process and mutex use
 
 ## Project 3.2: [Minishell](https://github.com/ipuig-pa/03_minishell)
 
+
 ## Project 4.1: [miniRT](https://github.com/ipuig-pa/04_miniRT)
 A Basic Ray Tracer written in C.
 
-## Project 4.2: [NetPractice](https://github.com/ipuig-pa/04_NetPractice)
+## Project 4.2: NetPractice
+Set of exercises to discover the basis of networking and subnetting
 
 ## Project 4.3: [C++]
 
