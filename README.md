@@ -31,7 +31,7 @@ A Wireframe Model Renderer written in C.
 Dining Philosophers implementation to approach threading a process and mutex use
 
 ## Project 3.2: [Minishell](https://github.com/ipuig-pa/03_minishell)
-
+Custom simple Shell based on bash behavior
 
 ## Project 4.1: [miniRT](https://github.com/ipuig-pa/04_miniRT)
 A Basic Ray Tracer written in C.
