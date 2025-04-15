@@ -28,7 +28,7 @@ A client-server communication program using UNIX signals.
 A Wireframe Model Renderer written in C.
 
 ## Project 3.1: [Philosophers](https://github.com/ipuig-pa/03_philosophers)
-
+Dining Philosophers implementation to approach threading a process and mutex use
 
 ## Project 3.2: [Minishell](https://github.com/ipuig-pa/03_minishell)
 
