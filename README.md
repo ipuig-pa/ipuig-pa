@@ -59,7 +59,7 @@ Second block of C++ exercises.
 &nbsp;&nbsp;&nbsp;&nbsp;[CPP09](https://github.com/ipuig-pa/04_CPP09): Exploring C++ STL  
 
 ## Project 5.2: [Inception](https://github.com/ipuig-pa/05_Inception)
-System Administration related exercise using Docker.
+System Administration automating exercise using Docker.
 
 ## Project 5.3: [Webserv](https://github.com/ipuig-pa/05_webserv)
 Custom HTTP web server written in C++.
