@@ -18,6 +18,9 @@ Custom implementation of the standard C library function printf().
 ## Project 1.2: [Get_Next_Line](https://github.com/ipuig-pa/01_get_next_line)
 A C function that reads a line from a file descriptor.
 
+## Project 1.3: Born2beRoot
+System Administration introduction exercise using Debian and VirtualBox.
+
 ## Project 2.1: [Push_Swap](https://github.com/ipuig-pa/02_push_swap/)
 C program implementing Sorting Algorithm to arrange numbers in a stack using limited moves.
 
@@ -28,19 +31,19 @@ A client-server communication program using UNIX signals.
 A Wireframe Model Renderer written in C.
 
 ## Project 3.1: [Philosophers](https://github.com/ipuig-pa/03_philosophers)
-Dining Philosophers implementation to approach threading a process and mutex use
+Dining Philosophers implementation to approach threading a process and mutex use.
 
 ## Project 3.2: [Minishell](https://github.com/ipuig-pa/03_minishell)
-Custom simple Shell based on bash behavior
+Custom simple Shell based on bash behavior.
 
 ## Project 4.1: [miniRT](https://github.com/ipuig-pa/04_miniRT)
 A Basic Ray Tracer written in C.
 
 ## Project 4.2: NetPractice
-Set of exercises to discover the basis of networking and subnetting
+Set of exercises to discover the basis of networking and subnetting.
 
 ## Project 4.3: CPP modules
-First block of C++ exercises   
+First block of C++ exercises.   
 &nbsp;&nbsp;&nbsp;&nbsp;[CPP00](https://github.com/ipuig-pa/04_CPP00): Exploring C++ namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic stuff  
 &nbsp;&nbsp;&nbsp;&nbsp;[CPP01](https://github.com/ipuig-pa/04_CPP01): Exploring C++ memory allocation, pointers to members, references and switch statements  
 &nbsp;&nbsp;&nbsp;&nbsp;[CPP02](https://github.com/ipuig-pa/04_CPP02): Exploring C++ ad-hoc polymorphism, operator overloading and the Orthodox Canonical class form  
@@ -48,7 +51,7 @@ First block of C++ exercises
 &nbsp;&nbsp;&nbsp;&nbsp;[CPP04](https://github.com/ipuig-pa/04_CPP04): Exploring C++ Subtype Polymorphism, Abstract Classes, and Interfaces  
 
 ## Project 5.1: CPP modules
-Second block of C++ exercises  
+Second block of C++ exercises.  
 &nbsp;&nbsp;&nbsp;&nbsp;[CPP05](https://github.com/ipuig-pa/04_CPP05): Exploring C++ Exceptions (throw, try, catch)  
 &nbsp;&nbsp;&nbsp;&nbsp;[CPP06](https://github.com/ipuig-pa/04_CPP06): Exploring C++ explicit casting types  
 &nbsp;&nbsp;&nbsp;&nbsp;[CPP07](https://github.com/ipuig-pa/04_CPP07): Exploring C++ templates  
@@ -56,9 +59,9 @@ Second block of C++ exercises
 &nbsp;&nbsp;&nbsp;&nbsp;[CPP09](https://github.com/ipuig-pa/04_CPP09): Exploring C++ STL  
 
 ## Project 5.2: [Inception](https://github.com/ipuig-pa/05_Inception)
-System Administration related exercise using Docker containers
+System Administration related exercise using Docker.
 
 ## Project 5.3: [Webserv](https://github.com/ipuig-pa/05_webserv)
-Custom HTTP web server written in C++
+Custom HTTP web server written in C++.
 
 </details>
