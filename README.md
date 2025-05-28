@@ -41,19 +41,19 @@ Set of exercises to discover the basis of networking and subnetting
 
 ## Project 4.3: CPP modules
 First block of C++ exercises 
-  [CPP00](https://github.com/ipuig-pa/04_CPP00): Exploring C++ namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic stuff
-  [CPP01](https://github.com/ipuig-pa/04_CPP01): Exploring C++ memory allocation, pointers to members, references and switch statements
-  [CPP02](https://github.com/ipuig-pa/04_CPP02): Exploring C++ ad-hoc polymorphism, operator overloading and the Orthodox Canonical class form
-  [CPP03](https://github.com/ipuig-pa/04_CPP03): Exploring C++ inheritance
-  [CPP04](https://github.com/ipuig-pa/04_CPP04): Exploring C++ Subtype Polymorphism, Abstract Classes, and Interfaces
+  [CPP00](https://github.com/ipuig-pa/04_CPP00): Exploring C++ namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic stuff  
+  [CPP01](https://github.com/ipuig-pa/04_CPP01): Exploring C++ memory allocation, pointers to members, references and switch statements  
+  [CPP02](https://github.com/ipuig-pa/04_CPP02): Exploring C++ ad-hoc polymorphism, operator overloading and the Orthodox Canonical class form  
+  [CPP03](https://github.com/ipuig-pa/04_CPP03): Exploring C++ inheritance  
+  [CPP04](https://github.com/ipuig-pa/04_CPP04): Exploring C++ Subtype Polymorphism, Abstract Classes, and Interfaces  
 
 ## Project 5.1: CPP modules
 Second block of C++ exercises
-  [CPP05](https://github.com/ipuig-pa/04_CPP05): Exploring C++ Exceptions (throw, try, catch)
-  [CPP06](https://github.com/ipuig-pa/04_CPP06): Exploring C++ explicit casting types
-  [CPP07](https://github.com/ipuig-pa/04_CPP07): Exploring C++ templates
-  [CPP08](https://github.com/ipuig-pa/04_CPP08): Exploring C++ templated containers, iterators, algorithms
-  [CPP09](https://github.com/ipuig-pa/04_CPP09): Exploring C++ STL
+  [CPP05](https://github.com/ipuig-pa/04_CPP05): Exploring C++ Exceptions (throw, try, catch)  
+  [CPP06](https://github.com/ipuig-pa/04_CPP06): Exploring C++ explicit casting types  
+  [CPP07](https://github.com/ipuig-pa/04_CPP07): Exploring C++ templates  
+  [CPP08](https://github.com/ipuig-pa/04_CPP08): Exploring C++ templated containers, iterators, algorithms  
+  [CPP09](https://github.com/ipuig-pa/04_CPP09): Exploring C++ STL  
 
 ## Project 5.2: [Inception](https://github.com/ipuig-pa/05_Inception)
 System Administration related exercise using Docker containers
