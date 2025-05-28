@@ -40,7 +40,7 @@ A Basic Ray Tracer written in C.
 Set of exercises to discover the basis of networking and subnetting
 
 ## Project 4.3: CPP modules
-First block of C++ exercises 
+First block of C++ exercises   
 &nbsp;&nbsp;&nbsp;&nbsp;[CPP00](https://github.com/ipuig-pa/04_CPP00): Exploring C++ namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic stuff  
 &nbsp;&nbsp;&nbsp;&nbsp;[CPP01](https://github.com/ipuig-pa/04_CPP01): Exploring C++ memory allocation, pointers to members, references and switch statements  
 &nbsp;&nbsp;&nbsp;&nbsp;[CPP02](https://github.com/ipuig-pa/04_CPP02): Exploring C++ ad-hoc polymorphism, operator overloading and the Orthodox Canonical class form  
@@ -48,7 +48,7 @@ First block of C++ exercises
 &nbsp;&nbsp;&nbsp;&nbsp;[CPP04](https://github.com/ipuig-pa/04_CPP04): Exploring C++ Subtype Polymorphism, Abstract Classes, and Interfaces  
 
 ## Project 5.1: CPP modules
-Second block of C++ exercises
+Second block of C++ exercises  
 &nbsp;&nbsp;&nbsp;&nbsp;[CPP05](https://github.com/ipuig-pa/04_CPP05): Exploring C++ Exceptions (throw, try, catch)  
 &nbsp;&nbsp;&nbsp;&nbsp;[CPP06](https://github.com/ipuig-pa/04_CPP06): Exploring C++ explicit casting types  
 &nbsp;&nbsp;&nbsp;&nbsp;[CPP07](https://github.com/ipuig-pa/04_CPP07): Exploring C++ templates  
