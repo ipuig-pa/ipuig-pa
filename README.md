@@ -52,11 +52,11 @@ First block of C++ exercises.
 
 ## Project 5.1: CPP modules
 Second block of C++ exercises.  
-&nbsp;&nbsp;&nbsp;&nbsp;[CPP05](https://github.com/ipuig-pa/04_CPP05): Exploring C++ Exceptions (throw, try, catch)  
-&nbsp;&nbsp;&nbsp;&nbsp;[CPP06](https://github.com/ipuig-pa/04_CPP06): Exploring C++ explicit casting types  
-&nbsp;&nbsp;&nbsp;&nbsp;[CPP07](https://github.com/ipuig-pa/04_CPP07): Exploring C++ templates  
-&nbsp;&nbsp;&nbsp;&nbsp;[CPP08](https://github.com/ipuig-pa/04_CPP08): Exploring C++ templated containers, iterators, algorithms  
-&nbsp;&nbsp;&nbsp;&nbsp;[CPP09](https://github.com/ipuig-pa/04_CPP09): Exploring C++ STL  
+&nbsp;&nbsp;&nbsp;&nbsp;[CPP05](https://github.com/ipuig-pa/05_CPP05): Exploring C++ Exceptions (throw, try, catch)  
+&nbsp;&nbsp;&nbsp;&nbsp;[CPP06](https://github.com/ipuig-pa/05_CPP06): Exploring C++ explicit casting types  
+&nbsp;&nbsp;&nbsp;&nbsp;[CPP07](https://github.com/ipuig-pa/05_CPP07): Exploring C++ templates  
+&nbsp;&nbsp;&nbsp;&nbsp;[CPP08](https://github.com/ipuig-pa/05_CPP08): Exploring C++ templated containers, iterators, algorithms  
+&nbsp;&nbsp;&nbsp;&nbsp;[CPP09](https://github.com/ipuig-pa/05_CPP09): Exploring C++ STL  
 
 ## Project 5.2: [Inception](https://github.com/ipuig-pa/05_Inception)
 System Administration automating exercise using Docker.
