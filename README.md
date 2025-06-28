@@ -64,4 +64,7 @@ System Administration automating exercise using Docker.
 ## Project 5.3: [Webserv](https://github.com/ipuig-pa/05_webserv)
 Custom HTTP web server written in C++.
 
+## Project 6: Transcendence
+Custom website for Pong game playing with improved features.
+
 </details>
